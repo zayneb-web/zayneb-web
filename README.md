@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Laral/Django/PHP App**
+- 🔭 I’m currently working on **NextJs/NestJs/ReactJs/MongoDB,GraphQL App**
 
-- 🌱 I’m currently learning **Laravel , Django , UX/UI **
+- 🌱 I’m currently learning **NextJs/NestJs **
 
 - 💬 Ask me about **React , Angular , JS , Spring Boot**
 
